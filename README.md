@@ -11,12 +11,13 @@
 
 - 💬 Ask me about **Laravel, PHP, JS**
 
-- 📫 How to reach me **contact.zawadzamil@hmail.com**
+- 📫 How to reach me **contact.zawadzamil@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/zawad zamil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zawad zamil" height="30" width="40" /></a>
 <a href="https://fb.com/zawad zamil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="zawad zamil" height="30" width="40" /></a>
+<a href="https://medium.com/@zawadzamil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@zawadzamil" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@contact_zawadza1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@contact_zawadza1" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/deadman007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="deadman007" height="30" width="40" /></a>
 </p>
