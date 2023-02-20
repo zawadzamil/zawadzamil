@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zawadzamil&label=Profile%20views&color=0e75b6&style=flat" alt="zawadzamil" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zawadzamil" alt="zawadzamil" /></a> </p>
-
 - 🔭 I’m currently working on [zaagsys_backend](https://zaagsys.com/)
 
 - 🌱 I’m currently learning **Node JS, Type Script**
