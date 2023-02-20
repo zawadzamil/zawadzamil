@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zawad Zamil</h1>
 <h3 align="center">A passionate backend developer have hunger to learn new technologies.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zawadzamil&label=Profile%20views&color=0e75b6&style=flat" alt="zawadzamil" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zawadzamil&label=Profile%40views&color=0e75b6&style=flat" alt="zawadzamil" /> </p>
 
 - 🔭 I’m currently working on [zaagsys_backend](https://zaagsys.com/)
 
