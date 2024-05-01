@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zawadzamil&label=Profile%40views&color=0e75b6&style=flat" alt="zawadzamil" /> </p>
 
-- 🔭 I’m currently working on [zaagsys_backend](https://zaagsys.com/)
+- 🔭 I’m currently working on [rms_backend](https://rms.zaagsys.com/)
 
-- 🌱 I’m currently learning **Node JS, Type Script**
+- 🌱 I’m currently learning **Reect Python**
 
 - 🤝 I’m looking for help with **NODE, Express**
 
-- 💬 Ask me about **Laravel, PHP, JS**
+- 💬 Ask me about **Java, Laravel, PHP, JS**
 
 - 📫 How to reach me **contact.zawadzamil@gmail.com**
 
